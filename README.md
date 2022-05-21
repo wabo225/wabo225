@@ -4,4 +4,4 @@ My programmatic interests include statistics, visualization, and simulation \
 I’m currently learning integrated circuits just for the fun of it. My last personal learning project was music composition and analog synthesizers! I've also recently been enthralled with Haskell
 - Reach me at *wabo225@uky.edu* or *wabodron@gmail.com*
 
-Perhaps the most comprehensive example of my work to be found on this page is for my work on external cavity diode [laserStabilization](laser Stabilization).
+Perhaps the most comprehensive example of my work to be found on this page is for my work on external cavity diode [../../../laserStabilization](laser Stabilization).
